@@ -35,7 +35,9 @@ You can view my resume [here](https://drive.google.com/file/d/1eARoB5snH5u_WCo-N
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinakarankommunuri@gmail.com)
 
 ### 📊 GitHub Stats
-![Dinakaran's GitHub Stats](https://github-readme-stats.vercel.sh/api?username=Dinakaran-k&show_icons=true&theme=radical)
+![Dinakaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinakaran-k&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakaran-k&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinakaran-k&theme=radical)
 
 ---
 
