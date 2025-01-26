@@ -26,6 +26,10 @@ I'm a dedicated Android Developer with 3.3 years of experience in crafting high-
 - Jetpack Compose Fundamentals
 - Android Architecture Components
 
+### 📄 Resume
+You can view my resume [here](https://drive.google.com/file/d/1eARoB5snH5u_WCo-NhCPXBRZ9J48F0lb/view?usp=drivesdk).
+
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinakarankommunuri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinakarankommunuri@gmail.com)
