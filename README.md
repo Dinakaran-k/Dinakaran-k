@@ -19,7 +19,7 @@ I'm a dedicated Android Developer with 3.3 years of experience in crafting high-
 ### 🚀 My Projects
 - [Ascott Star Rewards App](https://github.com/Dinakaran-k/ascott-star-rewards-android) - Native Android app for Capitaland
 - [AMT Site Access](https://github.com/Dinakaran-k/amt-site-access-app) - Cross-platform mobile application using React Native
-- [Android Learning Projects](https://github.com/Dinakaran-k/android-learning-projects)
+- [Android Learning Projects](https://github.com/Dinakaran-k?tab=repositories) - A collection of Android learning projects
 
 ### 🌱 Currently Learning
 - Advanced Kotlin Programming
