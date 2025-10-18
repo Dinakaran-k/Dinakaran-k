@@ -2,7 +2,7 @@
 
 ## 🤖 Android Dev | Software Engineer | Kotlin Enthusiast 
 
-I'm a dedicated Android Developer with 3.3 years of experience in crafting high-performance mobile applications. Passionate about creating robust, user-centric mobile solutions using cutting-edge technologies.
+I'm a dedicated Android Developer with 3.10+ years of experience in crafting high-performance mobile applications. Passionate about creating robust, user-centric mobile solutions using cutting-edge technologies.
 
 
 ### 🛠 Technologies & Skills
@@ -45,6 +45,7 @@ I'm a dedicated Android Developer with 3.3 years of experience in crafting high-
 - 🤝 Experienced in Agile methodologies
 
 ### 🚀 My Projects
+- [Turito- Live Learning App](https://play.google.com/store/apps/details?id=com.theascott.asr&hl=en_US) - Yupp TV Client
 - [Ascott Star Rewards App](https://play.google.com/store/apps/details?id=com.theascott.asr&hl=en_US) - Native Android app for Capitaland
 - [AMT Site Access](https://play.google.com/store/apps/details?id=com.americantower&hl=en) - Cross-platform mobile application using React Native
 - [Android Learning Projects](https://github.com/Dinakaran-k?tab=repositories) - A collection of Android learning projects
@@ -55,7 +56,7 @@ I'm a dedicated Android Developer with 3.3 years of experience in crafting high-
 - Android Architecture Components
 
 ### 📄 Resume
-You can view my resume [here](https://drive.google.com/file/d/1eARoB5snH5u_WCo-NhCPXBRZ9J48F0lb/view?usp=drivesdk).
+You can view my resume [here](https://drive.google.com/file/d/1i2Raf8BUv1DaPWRMOcNQso8R5HmZ3hWp/view).
 
 
 ### 📫 Connect with Me
