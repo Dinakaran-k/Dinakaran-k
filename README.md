@@ -56,7 +56,7 @@ I'm a dedicated Android Developer with 3.10+ years of experience in crafting hig
 - Android Architecture Components
 
 ### 📄 Resume
-You can view my resume [here](https://drive.google.com/file/d/1i2Raf8BUv1DaPWRMOcNQso8R5HmZ3hWp/view).
+You can view my resume [here](https://drive.google.com/file/d/1VwZAwjKG5GNIKBFh-LKXqQNBWFo77Htv/view).
 
 
 ### 📫 Connect with Me
