@@ -2,7 +2,7 @@
 
 ## 🤖 Android Dev | Software Engineer | Kotlin Enthusiast 
 
-I'm a dedicated Android Developer with 3.10+ years of experience in crafting high-performance mobile applications. Passionate about creating robust, user-centric mobile solutions using cutting-edge technologies.
+Android Engineer with 4+ years of hands-on experience building and maintaining production-grade Android applications using Kotlin. Strong focus on performance optimization, application stability, and scalable architecture using Jetpack Compose, MVVM, and Clean Architecture. Proven experience working on enterprise-scale applications, resolving production issues, supporting releases, and collaborating closely with cross-functional teams throughout the software development lifecycle in Agile environments.
 
 
 ### 🛠 Technologies & Skills
